@@ -3,11 +3,10 @@
 
 <br />
 
-- 🔭 I’m currently studying **Computer Science at Technical University of Cluj-Napoca and sharing my journey** 🎓🚀
-- 🌱 I’m currently learning **New technologies, frameworks and building my future in tech ✨**
-- 📫 How to reach me: **maria_strajan@yahoo.com**
+🔭 I’m currently studying **Computer Science at Technical University of Cluj-Napoca and sharing my journey** 🎓🚀<br/>
+🌱 I’m currently learning **New technologies, frameworks and building my future in tech ✨**<br/>
+📫 How to reach me: **maria_strajan@yahoo.com**<br/>
 
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,9 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 <br />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
